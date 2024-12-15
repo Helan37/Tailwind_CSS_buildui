@@ -11,3 +11,7 @@
 ## Demo
 
 [![Demo](Tw.png)](TW_Demo.mov)
+
+## Acknowledgements
+
+- Learned from the buildui course on Tailwind Mastery.
